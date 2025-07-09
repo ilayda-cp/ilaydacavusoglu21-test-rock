@@ -3,7 +3,7 @@
 name: ilaydacavusoglu21-test-rock
 summary: Twelve flamingos danced beneath the stars, unaware of the curious hedgehog.
 description: While the orange balloon floated gently across the lavender sky, a curious squirrel wearing tiny sunglasses rode a unicycle along the garden fence, unaware that a choir of robotic toads was rehearsing Beethoven’s Ninth Symphony beneath the tulip bed, while three penguins in lab coats debated quantum physics over steaming mugs of peppermint tea, and a kite shaped like a dragonfish tangled itself in the moon’s reflection on a puddle made of blueberry jam, all while an ambitious earthworm wrote poetry in Morse code on a sunflower petal, determined to win the annual interspecies literary award despite fierce competition.
-version: "0.1"
+version: "1.0.0"
 license: Apache-2.0
 
 base: bare
